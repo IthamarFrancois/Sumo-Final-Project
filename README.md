@@ -1,6 +1,9 @@
 Sumo Website:
+
 http://sumo-data-bucket.s3-website-us-east-1.amazonaws.com/Index.html
+
 or
+
 https://sumo-wrestling.herokuapp.com/Index.html
 
 **Objective:** trying different machine learning methods to develop a sumo wrestling match predictor.
